@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Dayal</h1>
-<h3 align="center">A passionate Web Application Developer from India</h3>
+<h3 align="center">React.js Developer | Proficient in ES6, Redux, and Modern JavaScript | Open to New Opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagithub2407&label=Profile%20views&color=0e75b6&style=flat" alt="poojagithub2407" /> </p>
 
-- 🔭 I’m currently working as **Web Application Developer**
+- 🔭 I’m currently working as **React Js Developer**
 
-- 🌱 I’m currently learning **React Native,Next js**
+- 🌱 I’m currently learning **Node js,Express js,MongoDB and MySql**
 
 - 💬 Ask me about **React,Angular,Javascript,Html5,Css3,Bootstrap**
 
